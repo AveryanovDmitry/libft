@@ -5,6 +5,10 @@ be to use in several my other projects.
 
 C programming can be very tedious when one doesn’t have access to those highly useful
 standard functions. In this project I re-write those functions, understand them,
-and learn to use them. This library will help you with all your future C projects.
-Take the time to expand your libft throughout the year. But always, make sure to
-check which functions are allowed 
+and learn to use them. This library helped me with all my future C projects. 
+
+Этот проект направлен на создание библиотеки C, перегруппирующей обычные функции, которые я буду использовать в нескольких других своих проектах.
+
+Программирование на C может быть очень утомительным, если нет доступа к этим полезным стандартным функциям. 
+В этом проекте я переписываю стандартные функции языка С, понимаю их и учусь ими пользоваться. 
+Эта библиотека помогла мне во всех моих будущих проектах C.
